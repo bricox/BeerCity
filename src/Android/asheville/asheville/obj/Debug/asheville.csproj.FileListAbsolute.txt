@@ -1,0 +1,17 @@
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/bin/Debug/asheville.dll
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/bin/Debug/asheville.pdb
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/bin/Debug/io.beercity.asheville.apk
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/bin/Debug/io.beercity.asheville-Signed.apk
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/obj/Debug/asheville.csproj.CoreCompileInputs.cache
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/obj/Debug/asheville.dll
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/obj/Debug/asheville.pdb
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/obj/Debug/android/bin/io.beercity.asheville.apk
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/obj/Debug/res/layout/main.xml
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/obj/Debug/res/values/strings.xml
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/obj/Debug/R.cs.flag
+/Users/brian2/Development/git/BeerCity/src/Android/asheville/asheville/obj/Debug/uploadflags.txt

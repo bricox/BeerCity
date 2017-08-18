@@ -1,0 +1,4 @@
+asheville.MainActivity, asheville;md54e270caf3b21bcc67138bf00b9fb361f.MainActivity
+asheville.MainActivity, asheville, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54e270caf3b21bcc67138bf00b9fb361f.MainActivity
+asheville.MainActivity;md54e270caf3b21bcc67138bf00b9fb361f.MainActivity
+asheville.MainActivity;md54e270caf3b21bcc67138bf00b9fb361f.MainActivity

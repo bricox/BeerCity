@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8643D9B9-1722-4DF0-8391-AE8598027A5A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="asheville/MainActivity.cs">
+    <Files>
+      <File FileName="asheville/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.asheville PreferredExecutionTarget="Android.Nexus_5X_API_26" />
+  <MultiItemStartupConfigurations />
+</Properties>
